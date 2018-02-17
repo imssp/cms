@@ -1,0 +1,152 @@
+{
+	"term_span_details":[
+		{
+			"semester":"odd",
+			"start_date":"2017-07-01",
+			"end_date":"2017-12-31"
+		},
+		{
+			"semester":"even",
+			"start_date":"2018-01-01",
+			"end_date":"2018-06-30"
+		}
+	],
+	"course": [{
+			"courseName": "BE",
+			"courseIndex": "0",
+			"semesters": "8",
+			"branches": [{
+					"name": "Electronics",
+					"code": "ETRX",
+					"branchindex": "1",
+					"shift": [{
+						"name": "morning",
+						"divisions": "2"
+					}]
+				},
+				{
+					"name": "Computer Engineering",
+					"code": "CMPN",
+					"branchindex": "2",
+					"shift": [{
+							"name": "morning",
+							"divisions": "2"
+						},
+						{
+							"name": "afternoon",
+							"divisions": "1"
+						}
+					]
+				},
+				{
+					"name": "Instrumentation",
+					"code": "INST",
+					"branchindex": "3",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				},
+				{
+					"name": "Electronics and Telecommunication",
+					"code": "EXTC",
+					"branchindex": "4",
+					"shift": [{
+							"name": "morning",
+							"divisions": "2"
+						},
+						{
+							"name": "afternoon",
+							"divisions": "1"
+						}
+					]
+				},
+				{
+					"name": "Information Technology",
+					"code": "INFT",
+					"branchindex": "5",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				}
+			]
+		},
+		{
+			"courseName": "ME",
+			"courseIndex": "1",
+			"semesters": "4",
+			"branches": [{
+					"name": "Instrumentation",
+					"code": "INST",
+					"branchindex": "3",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				},
+				{
+					"name": "Electronics and Telecommunication",
+					"code": "EXTC",
+					"branchindex": "4",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				},
+				{
+					"name": "Information Technology",
+					"code": "INFT",
+					"branchindex": "5",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				}
+			]
+		},
+		{
+			"courseName": "MCA",
+			"courseIndex": "2",
+			"semesters": "6",
+			"branches": [{
+				"name": "Master of Computer Applications",
+				"code": "MCA",
+				"branchindex": "0",
+				"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					},
+					{
+						"name": "afternoon",
+						"divisions": "1"
+					}
+				]
+			}]
+		},
+		{
+			"courseName": "PhD",
+			"courseIndex": "3",
+			"semesters": "2",
+			"branches": [{
+					"name": "Instrumentation",
+					"code": "INST",
+					"branchindex": "3",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				},
+				{
+					"name": "Electronics and Telecommunication",
+					"code": "EXTC",
+					"branchindex": "4",
+					"shift": [{
+						"name": "morning",
+						"divisions": "1"
+					}]
+				}
+			]
+		}
+	]
+}

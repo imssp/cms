@@ -1,0 +1,45 @@
+{
+	"exam_head": [{
+			"value": "0",
+			"name": "End Semester Examination",
+			"short_form": "ESE"
+
+		},
+		{
+			"value": "1",
+			"name": "Internal Assessment 1",
+			"short_form": "IA-1"
+
+		},
+		{
+			"value": "2",
+			"name": "Internal Assessment 2",
+			"short_form": "IA-2"
+
+		},
+		{
+			"value": "3",
+			"name": "Term Work",
+			"short_form": "TW"
+
+		},
+		{
+			"value": "4",
+			"name": "Practical",
+			"short_form": "PR"
+
+		},
+		{
+			"value": "5",
+			"name": "Oral",
+			"short_form": "OR"
+
+		},
+		{
+			"value": "45",
+			"name": "Practical and Oral",
+			"short_form": "PR-OR"
+		}
+
+	]
+}

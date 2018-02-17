@@ -1,0 +1,63 @@
+{
+	"course": [{
+			"courseName": "BE",
+			"revision": [{
+					"name": "choiceBased",
+					"startYear": "2016"
+				},
+				{
+					"name": "CBSGS",
+					"startYear": "2012"
+				},
+				{
+					"name": "Revised",
+					"startYear": "2007"
+				}
+			]
+		},
+		{
+			"courseName": "ME",
+			"revision": [{
+					"name": "choiceBased",
+					"startYear": "2016"
+				},
+				{
+					"name": "CBSGS",
+					"startYear": "2012"
+				},
+				{
+					"name": "Revised",
+					"startYear": "2007"
+				}
+			]
+		},
+		{
+			"courseName": "MCA",
+			"revision": [{
+					"name": "choiceBased",
+					"startYear": "2016"
+				},
+				{
+					"name": "CBSGS",
+					"startYear": "2012"
+				},
+				{
+					"name": "Revised",
+					"startYear": "2007"
+				}
+			]
+		},
+		{
+			"courseName": "PhD",
+			"revision": [{
+					"name": "choiceBased",
+					"startYear": "2016"
+				},
+				{
+					"name": "CBSGS",
+					"startYear": "2012"
+				}
+			]
+		}
+	]
+}
