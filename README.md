@@ -1,2 +1,2 @@
-# Content Mnagement System for VESIT
-## This Repository is no longer maintained!
+## Content Management System
+  This Repository is no longer maintained!
